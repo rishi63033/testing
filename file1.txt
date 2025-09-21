@@ -1,1 +1,2 @@
 hi i am from the file1 edited fromm nch branch
+ . hi then no i just changed
